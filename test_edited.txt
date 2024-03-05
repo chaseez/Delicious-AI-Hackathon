@@ -1,0 +1,8 @@
+./bev_classification/images/test/049000000443/075ea662-010c-4b0b-abf1-8ab84352e04a.jpg,049000000443
+./bev_classification/images/test/049000007640/8a6ee392-78c1-4f89-a2f2-dcb610fde1d1.jpg,049000007640
+./bev_classification/images/test/016571910303/68e73415-cfe8-44f7-90c9-0c9727fe432d.jpg,078000003864
+./bev_classification/images/test/016571910310/c455acc6-da2e-4c5c-9650-97a0c00a1816.jpg,016571910310
+./bev_classification/images/test/049000000443/01ba7035-339b-4f41-aeca-08d0850e4e98.jpg,049000000443
+./bev_classification/images/test/078000003864/5e2f1d0f-15b9-4d74-8ab4-8b861a84ee7d.jpg,049000024692
+./bev_classification/images/test/818094005791/f9e7a646-7ff6-40e8-957b-57167499d681.jpg,078000152166
+./bev_classification/images/test/012000004520/4839aba3-24cb-4494-92d7-1a6e12a59d15.jpg,012000004520

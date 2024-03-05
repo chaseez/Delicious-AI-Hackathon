@@ -1,3 +1,4 @@
 bev_classification/images/*
 hackathon_data.zip
 secrets.env
+model/*
